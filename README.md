@@ -6,15 +6,14 @@
 
 * Penulis Utama :
 
-![Alt text](1.jpg)
-
+![image](https://raw.githubusercontent.com/pasabar/BukuPasabar/main/1.jpg)
 * Biografi Penulis Utama :
   
 Ryaas Ishlah Ramadhan, lahir di Kota Bandung pada tanggal 13 November 2002. Pendidikan tingkat dasar hingga menengah ditempuh di Bandung. Mulai mengoding sejak kuliah, melatih pengodinganya di ULBI Bandung, Pengurus OSIS pada saat smp dan mengikuti eskul futsal. Melanjutkan pendidikan D4 diUniversitas Logistik dan Bisnis Internasional dengan jurusan Teknik informatika. Saya Sangat menyukai teknogi canggih dan menyukai sepakbola dan ingin mempunyai usaha sendiri bersama keluarga dengan membagi tugas sesuai kemampuanya.a.
 
 * Penulis 2 :
 
-![Alt text](2.jpg)
+![image](https://raw.githubusercontent.com/pasabar/BukuPasabar/main/2.jpg)
 
 * Biografi Penulis 2 :
 
@@ -26,10 +25,8 @@ Fahad Abdul Aziz, lahir di Kota Garut pada tanggal 17 Juni 2003. Pendidikan ting
 
 * Depan
 
-![Alt text](<WhatsApp Image 2023-12-04 at 22.04.05_62adff46.jpg>)
+![image](https://raw.githubusercontent.com/pasabar/BukuPasabar/main/cover_depang.jpg)
 
 * Belakang
-
-![Alt text](<WhatsApp Image 2023-12-04 at 22.04.05_c2875ba2.jpg>)
-
+![image](https://raw.githubusercontent.com/pasabar/BukuPasabar/main/cover_belakang.jpg)
 
