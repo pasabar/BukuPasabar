@@ -9,7 +9,7 @@
 ![image](https://raw.githubusercontent.com/pasabar/BukuPasabar/main/1.jpg)
 * Biografi Penulis Utama :
   
-Ryaas Ishlah Ramadhan, lahir di Kota Bandung pada tanggal 13 November 2002. Pendidikan tingkat dasar hingga menengah ditempuh di Bandung. Mulai mengoding sejak kuliah, melatih pengodinganya di ULBI Bandung, Pengurus OSIS pada saat smp dan mengikuti eskul futsal. Melanjutkan pendidikan D4 diUniversitas Logistik dan Bisnis Internasional dengan jurusan Teknik informatika. Saya Sangat menyukai teknogi canggih dan menyukai sepakbola dan ingin mempunyai usaha sendiri bersama keluarga dengan membagi tugas sesuai kemampuanya.a.
+Ryaas Ishlah Ramadhan, lahir di Kota Bandung pada tanggal 13 November 2002. Pendidikan tingkat dasar hingga menengah ditempuh di Bandung. Mulai mengoding sejak kuliah, melatih pengodinganya di ULBI Bandung, Pengurus OSIS pada saat smp dan mengikuti eskul futsal. Melanjutkan pendidikan D4 diUniversitas Logistik dan Bisnis Internasional dengan jurusan Teknik informatika. Saya Sangat menyukai teknogi canggih dan menyukai sepakbola dan ingin mempunyai usaha sendiri bersama keluarga dengan membagi tugas sesuai kemampuanya
 
 * Penulis 2 :
 
